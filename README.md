@@ -35,9 +35,9 @@ The project contains a Jupyter Notebook with the following main sections:
     ```
 
 3. **Run the Jupyter Notebook**:
-    Open the notebook `Olaoluwa_Olukoya_ml.ipynb` using Jupyter:
+    Open the notebook `Steam_Games_ARS_ml.ipynb` using Jupyter:
     ```sh
-    jupyter notebook Olaoluwa_Olukoya_ml.ipynb
+    jupyter notebook Steam_Games_ARS_ml.ipynb
     ```
 
 ## Usage
